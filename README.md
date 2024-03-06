@@ -1,5 +1,6 @@
 # phylogenetic-analysis
 PHYLOGENETIC ANALYSIS OF DNA SEQUENCES USING FOURIER TRANSFORM
+
 In phylogenetic analysis, branching diagrams are made to represent the evolutionary history or relationship between different species, organisms, or characteristics of an organism (genes, proteins, organs, etc.) that are developed from a common ancestor. The diagram is known as a phylogenetic tree
 
 There are two types of phylogenetic trees:-
